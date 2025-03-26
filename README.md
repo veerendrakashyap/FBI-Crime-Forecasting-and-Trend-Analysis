@@ -1,6 +1,4 @@
-# FBI Forecasting - Crime Analysis and Time Series Forecasting
-
-##  Project Name: **FBI Forecasting - Crime Analysis and Time Series Forecasting**
+#  Project Name: **FBI Forecasting - Crime Analysis and Time Series Forecasting**
 
 ##  Project Type: **Time Series Forecasting, Predictive Modeling, and Exploratory Data Analysis (EDA)**
 
