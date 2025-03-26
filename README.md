@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 **Project Summary**
+##  **Project Summary**
 
 This project focuses on **time series forecasting** of crime incidents using **FBI data**. The goal is to analyze historical crime data and create predictive models to forecast future crime trends, helping law enforcement agencies allocate resources more efficiently and develop targeted strategies for crime prevention.
 
